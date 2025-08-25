@@ -1,0 +1,1 @@
+iRSD:\Jenkins\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo.csproj¢net8.0òCSharp12

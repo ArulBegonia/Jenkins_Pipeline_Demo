@@ -1,0 +1,1 @@
+QR;D:\Jenkins\Jenkins_Pipeline_Demo\CICD_Test\CICD_Test.csproj¢net8.0òCSharp12
