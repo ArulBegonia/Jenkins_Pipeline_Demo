@@ -31,3 +31,4 @@ D:\Jenkins\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net8.0\refint\J
 D:\Jenkins\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net8.0\Jenkins_Pipeline_Demo.pdb
 D:\Jenkins\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net8.0\Jenkins_Pipeline_Demo.genruntimeconfig.cache
 D:\Jenkins\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net8.0\ref\Jenkins_Pipeline_Demo.dll
+D:\Jenkins\Jenkins_Pipeline_Demo\Jenkins_Pipeline_Demo\obj\Debug\net8.0\Jenkins_Pipeline_Demo.sourcelink.json
